@@ -1,0 +1,2 @@
+if we use method outside constructor then we have to use bind with method in constructor
+otherwise use arror function
